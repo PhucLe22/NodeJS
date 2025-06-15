@@ -33,5 +33,5 @@ app.set('views', path.join(__dirname, 'resources', 'views')); //_dirname == cont
 route(app);
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
-    console.log(`123`);
+    console.log(`Tieu Tri Bang`);
 });
